@@ -1,0 +1,13 @@
+venv
+.env.dev
+.env
+.env.prod
+.env.prod.db
+db.sqlite3
+__pycache__
+.idea/
+.DS_Store
+node_modules
+todolist.txt
+toyota-avensis-441923-f7a47164daac.json
+.ipynb_checkpoints/
