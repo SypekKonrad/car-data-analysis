@@ -9,7 +9,7 @@ This project focuses on analyzing real-world data collected from my car refuelin
 - **Data Collection**: Gather raw data on car refueling habits (fuel volumes, prices, distance traveled, etc.).
 - **Data Cleaning**: Preprocess and clean the raw data to handle missing values, inconsistencies, and outliers.
 - **Data Analysis**: Perform analysis on fuel consumption, cost, travel efficiency, and driving trends.
-- **Data Visualization**: Create simple visualizations (optional) to better communicate insights.
+- **Data Visualization**: Create simple visualizations to better communicate insights.
 
 ---
 
@@ -32,7 +32,6 @@ This project focuses on analyzing real-world data collected from my car refuelin
 
 ## Data Insights
 - **Fuel Economy**: Analyze fuel consumption over time to identify trends in efficiency.
-- **Travel Efficiency**: Compare fuel consumption to the kilometers traveled to calculate fuel efficiency.
 - **Cost Analysis**: Analyze fuel price trends and their impact on total fuel expenditure.
 - **Driving Behavior**: Identify seasonal patterns or behaviors that affect fuel consumption.
 
@@ -43,7 +42,7 @@ This project focuses on analyzing real-world data collected from my car refuelin
 1. **Data Collection**: Refueling logs are collected in CSV files or spreadsheets, capturing details like date, cost, kilometers traveled, and liters of fuel filled.
 2. **Data Cleaning**: The raw data is cleaned using Pandas to handle missing values, remove duplicates, and standardize formats (e.g., date formatting).
 3. **Data Analysis**: Using NumPy and Pandas, various calculations and analyses are performed, such as computing fuel efficiency, total costs, and identifying patterns in the data.
-4. **Data Visualization** (Optional): Simple plots (e.g., line graphs, bar charts) are created to visualize trends such as fuel consumption over time or the relationship between distance traveled and fuel used.
+4. **Data Visualization**: Simple plots (e.g., line graphs, bar charts) are created to visualize trends such as fuel consumption over time or the relationship between distance traveled and fuel used.
 
 ---
 
