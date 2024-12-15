@@ -1,5 +1,7 @@
 # Car Refueling Data Analysis
 
+The project is hosted at: [Car Refueling Data Dashboard](http://3.120.128.190:1337/car-data).
+
 ## Overview
 This project focuses on analyzing real-world data collected from my car refueling habits to uncover insights into fuel consumption, costs, and driving behavior. The data is processed and analyzed using Python, with the help of libraries like Pandas and NumPy, to extract meaningful trends and patterns that can inform decisions about fuel efficiency and driving habits.
 
