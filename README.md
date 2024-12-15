@@ -5,6 +5,24 @@ This project focuses on analyzing real-world data collected from my car refuelin
 
 ---
 
+## Car Specifications
+
+The analysis is based on data from a Toyota Avensis T22, which has the following technical specifications:
+- **Engine Type**: 2.0L, inline 4, turbocharged
+- **Power**: 110 horsepower
+- **Curb Weight**: 1410 kg
+- **Fuel Type**: Diesel
+   
+---
+
+## How It Works
+1. **Data Fetch Notebook**: Refueling logs are collected in CSV files or spreadsheets, capturing details like date, cost, kilometers traveled, and liters of fuel filled.
+2. **Fuel Economy Notebook**: Analyzes fuel consumption trends for the Toyota Avensis T22, including average fuel efficiency (L/100km) and visualizations of consumption over time and its relationship with distance traveled.
+3. **Cost Analysis Notebook**: Calculates fuel expenditure, price per kilometer, and fuel efficiency, providing insights into total and average costs. Visualizes trends in fuel prices and travel cost efficiency over time.
+4. **Seasonal Analysis Notebook:**: Analyzes fuel consumption and efficiency across different seasons, calculating average fuel consumption (L/100km) and fuel efficiency (km/L) for Winter, Spring, Summer, and Autumn. Visualizes seasonal trends using bar charts for comparison.
+
+---
+
 ## Project Goals
 - **Data Collection**: Gather raw data on car refueling habits (fuel volumes, prices, distance traveled, etc.).
 - **Data Cleaning**: Preprocess and clean the raw data to handle missing values, inconsistencies, and outliers.
@@ -27,22 +45,14 @@ This project focuses on analyzing real-world data collected from my car refuelin
 - **Pandas**: A powerful library for data manipulation, cleaning, and analysis.
 - **NumPy**: Provides support for numerical operations and array-based calculations.
 - **Jupyter Notebooks**:  Used for data exploration and analysis.
-
+- **Matplotlib**:  A popular library for creating visualizations in Python.
+  
 ---
 
 ## Data Insights
 - **Fuel Economy**: Analyze fuel consumption over time to identify trends in efficiency.
 - **Cost Analysis**: Analyze fuel price trends and their impact on total fuel expenditure.
 - **Driving Behavior**: Identify seasonal patterns or behaviors that affect fuel consumption.
-
----
-
-## How It Works
-
-1. **Data Collection**: Refueling logs are collected in CSV files or spreadsheets, capturing details like date, cost, kilometers traveled, and liters of fuel filled.
-2. **Data Cleaning**: The raw data is cleaned using Pandas to handle missing values, remove duplicates, and standardize formats (e.g., date formatting).
-3. **Data Analysis**: Using NumPy and Pandas, various calculations and analyses are performed, such as computing fuel efficiency, total costs, and identifying patterns in the data.
-4. **Data Visualization**: Simple plots (e.g., line graphs, bar charts) are created to visualize trends such as fuel consumption over time or the relationship between distance traveled and fuel used.
 
 ---
 
