@@ -11,7 +11,7 @@ This project focuses on analyzing real-world data collected from my car refuelin
 
 The analysis is based on data from a Toyota Avensis T22, which has the following technical specifications:
 - **Engine Type**: 2.0L, inline 4, turbocharged
-- **Power**: 110 horsepower
+- **Power**: 110 horsepower, 250 Nm of torque
 - **Curb Weight**: 1410 kg
 - **Fuel Type**: Diesel
    
@@ -43,6 +43,7 @@ The analysis is based on data from a Toyota Avensis T22, which has the following
 
 ## Technologies Used
 
+- **Google Spreadsheets**: Used for logging and organizing real-world data.
 - **Python**: The core language used for processing and analyzing the data.
 - **Pandas**: A powerful library for data manipulation, cleaning, and analysis.
 - **NumPy**: Provides support for numerical operations and array-based calculations.
